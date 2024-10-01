@@ -1,4 +1,4 @@
-This is a full-stack website built using the Next.js framework. For the frontend UI, we use Radix, Shadcn, Lucid-react, and React Hook Form. Authentication is handled by NextAuth.js, and we use Zod for validation. Additionally, we have integrated generative AI features.
+This is a full-stack website built using the Next.js framework with typescript. For the frontend UI, we use Radix, Shadcn, Lucid-react, and React Hook Form. Authentication is handled by NextAuth.js, and we use Zod for validation. Additionally, we have integrated generative AI features.
 
 The website allows users to send anonymous messages to anyone registered on the platform. A user can register using their email and username, and upon successful registration, they can access their dashboard to view all received messages. They are also provided with a unique link that allows others to send them anonymous messages.
 
